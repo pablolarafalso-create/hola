@@ -1,0 +1,16 @@
+Desde donde hasta donde vas
+Prporcionar la ubicacion acceso exacto a tu ubicacion en tiempo real 
+Selecionar transporte vas a ir:
+Metro
+bus
+Taxi
+Bici
+Andando
+Coche
+cercanias
+Muestra de todas las rutas con todas la opciones más cercanas y posibles
+Comenze ruta con el medio selecionado
+Calcular el tiempo estimado
+Calcular la ruta mediante el medio elegido
+Comienza la ruta...
+Cuando se detecta que el usuario llegó al destino se finaliza la ruta selecionada

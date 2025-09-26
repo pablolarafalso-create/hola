@@ -1,0 +1,10 @@
+Entrar en la pagina web
+Se muetra el catalogo de la pagina con sus diferentes categorias y descuntos 
+Definir un proceso de busqueda para filtral contenido 
+El usuario propone una busqueda
+El usuario puede:
+filtrar productos por nombre
+filtrar productos por precio
+filtrar productos por talla
+Comprar en la base de datos si hay coincidencias en los resultados y muestra los resultados referentes 
+si 
